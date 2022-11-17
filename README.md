@@ -1,2 +1,2 @@
 # design-portfolio
-Design portfolio
+Design portfolio for UI/UX
